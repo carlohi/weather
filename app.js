@@ -6,4 +6,4 @@ const argv = require('yargs').options({
     }
 }).argv;
 
-console.log(argv.data);
+console.log(argv.data); 
